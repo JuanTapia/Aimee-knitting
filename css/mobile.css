@@ -1,0 +1,59 @@
+#navbar .logo{
+  float: none;
+  text-align: center;
+}
+#navbar ul,#navbar ul li{
+  float: none;
+}
+#navbar ul li a{
+  padding: 5px;
+  border-bottom: rgb(137, 199, 57) dotted 1px;
+}
+
+/* Designs */
+
+.box{
+  
+  float: none;
+  width: 100%;
+  /* text-align: center; */
+  
+}
+
+/* About Aimee */
+
+#about-aimee .picture{
+  float: none;
+  width: 100%;
+}
+#about-aimee .info{
+  text-align: center;
+  float: none;
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+/* Knit pictures */
+
+#knit-pics .photo,
+#knit-pics .photo-content{
+  width: 100%;
+  float: none;
+}
+
+
+/* contact */
+
+#contact-form{
+  background: rgb(179, 194, 164);
+  text-align: center;
+}
+#contact-form input,
+#contact-form textarea{
+  width: 100%;
+  padding: 10px;
+}
+.ways-to-reach .box{
+  border-bottom: #444 dotted 1px;
+}
